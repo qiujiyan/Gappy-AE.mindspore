@@ -1,0 +1,6 @@
+scipy
+mindspore==1.8.1
+pandas
+numpy
+scikit-learn
+matplotlib
